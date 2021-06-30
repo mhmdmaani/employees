@@ -1,0 +1,25 @@
+button {
+  margin: 10px;
+}
+select {
+  margin: 10px;
+}
+input {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 10px 0;
+  padding: 10px;
+}
+button {
+  width: 100%;
+  background-color: #fff;
+  border: 1px solid #03a9f4;
+  color: #03a9f4;
+  box-sizing: border-box;
+  margin: 10px 0px;
+  padding: 10px 0;
+}
+h3 {
+  text-align: center;
+  width: 100%;
+}
